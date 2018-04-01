@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
@@ -15,4 +14,5 @@ int main()
   {
     cout<<"es manor edad ";
   }
+  return 0;
 }
